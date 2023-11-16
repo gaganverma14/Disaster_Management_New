@@ -1,0 +1,29 @@
+#recent--{
+    text-align: center;
+  }
+  .border {
+    border: var(--bs-border-width) var(--bs-border-style) var(--bs-border-color)!important;
+  }
+
+  .shadow-lg {
+    box-shadow: 0 1rem 3rem rgba(0,0,0,.175)!important;
+  }
+  
+  .rounded-3 {
+    border-radius: var(--bs-border-radius-lg)!important;
+  }
+  #rebuilding,#disaster-relief,#response-and-recovery{
+    text-align: center;
+  }
+  #recentaaa{
+    text-align: center;
+  }
+
+#carouselExampleAutoplaying{
+    height: 500px;
+    width: 550px;
+    margin: auto;
+}
+
+
+
